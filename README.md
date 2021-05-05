@@ -14,7 +14,7 @@ For example, to update this file, what I did was:
   - `git commit -m 'README.md +Some basics about GIT and MD'` Not yet on the sever, only on client
   - `git push` Now it's on the server!
 
-And now you see this new version of the README!
+And now you see this new version of the README! This add-commit-push can be done using a GUI or via command line
 
 
 
